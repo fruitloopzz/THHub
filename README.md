@@ -21,11 +21,10 @@ Profiles are saved in `fruitloop/configs/`, and the hub reloads itself when it h
 ### Running from source
 Put the 6 `.lua` files in `workspace/fruitloop/` and run `loadstring(readfile("fruitloop/Autospam.lua"))()`.
 
-
-## Requirements
-Your executor must support `getgenv`, `getrawmetatable`/`hookfunction` (for anti-AFK), `readfile`, `writefile`, `isfile`, `makefolder`, `listfiles`, `loadstring` and an HTTP request function. `queue_on_teleport` is needed for server hopping.
-
+## Credits
 The UI uses [Rayfield](https://sirius.menu/rayfield).
 
 ## Disclaimer
 Using executors breaks Roblox's Terms of Use and can get your account banned. Use this at your own risk.
+
+## Tested with Potassium and Wave.

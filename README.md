@@ -14,7 +14,7 @@ A Trade Hangout hub, built by fruitloop.
 ## Install
 Run this in your executor:
 ```lua
-loadstring(game:HttpGet("INSERT"))()
+loadstring(game:HttpGet("(https://raw.githubusercontent.com/fruitloopzz/THHub/refs/heads/main/Autospam.lua)"))()
 ```
 Profiles are saved in `fruitloop/configs/`, and the hub reloads itself when it hops servers.
 

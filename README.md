@@ -2,7 +2,7 @@
 
 A Trade Hangout hub, built by fruitloop.
 
-![UI preview](image.png)
+![UI preview](image.jpg)
 
 ## Features
 - **Spammer:** posts your message in chat on a cooldown, with an optional start delay and anti-AFK.

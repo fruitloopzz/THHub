@@ -18,11 +18,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fruitloopzz/THHub/mai
 ```
 Profiles are saved in `fruitloop/configs/`, and the hub reloads itself when it hops servers.
 
-### Running from source
-Put the 6 `.lua` files in `workspace/fruitloop/` and run `loadstring(readfile("fruitloop/Autospam.lua"))()`.
-
 ## Credits
-The UI uses [Rayfield](https://sirius.menu/rayfield).
+[Rayfield](https://sirius.menu/rayfield).
 
 ## Disclaimer
 Using executors breaks Roblox's Terms of Use and can get your account banned. Use this at your own risk.
